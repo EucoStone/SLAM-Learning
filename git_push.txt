@@ -1,3 +1,5 @@
+检查链接
+ssh -T git@github.com
 在SLAM-Learning文件夹下，使用git bash
 git add .
 git commit -m "此处为添加的注释"
