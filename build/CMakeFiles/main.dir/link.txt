@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/home/eucostone/桌面/SLAM_Learning/build libhello_shared.so 
